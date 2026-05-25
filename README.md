@@ -93,7 +93,7 @@
 
 <sub>48 repos · 🟢 19 · 🟡 28 · 🟠 1</sub>
 
-<details>
+<details open>
 <summary>📂 <b>Show 48 repos</b></summary>
 
 | Repo | ★ Stars | Tier | Lang | Description |
@@ -157,7 +157,7 @@
 
 <sub>36 repos · 🟢 20 · 🟡 16</sub>
 
-<details>
+<details open>
 <summary>📂 <b>Show 36 repos</b></summary>
 
 | Repo | ★ Stars | Tier | Lang | Description |
@@ -209,7 +209,7 @@
 
 <sub>36 repos · 🟢 21 · 🟡 15</sub>
 
-<details>
+<details open>
 <summary>📂 <b>Show 36 repos</b></summary>
 
 | Repo | ★ Stars | Tier | Lang | Description |
@@ -261,7 +261,7 @@
 
 <sub>19 repos · 🟢 13 · 🟡 6</sub>
 
-<details>
+<details open>
 <summary>📂 <b>Show 19 repos</b></summary>
 
 | Repo | ★ Stars | Tier | Lang | Description |
@@ -296,7 +296,7 @@
 
 <sub>25 repos · 🟢 12 · 🟡 12 · 🟠 1</sub>
 
-<details>
+<details open>
 <summary>📂 <b>Show 25 repos</b></summary>
 
 | Repo | ★ Stars | Tier | Lang | Description |
@@ -337,7 +337,7 @@
 
 <sub>11 repos · 🟢 10 · 🟡 1</sub>
 
-<details>
+<details open>
 <summary>📂 <b>Show 11 repos</b></summary>
 
 | Repo | ★ Stars | Tier | Lang | Description |
@@ -364,7 +364,7 @@
 
 <sub>4 repos · 🟢 3 · 🟡 1</sub>
 
-<details>
+<details open>
 <summary>📂 <b>Show 4 repos</b></summary>
 
 | Repo | ★ Stars | Tier | Lang | Description |
@@ -384,7 +384,7 @@
 
 <sub>10 repos · 🟢 4 · 🟡 5 · 🟠 1</sub>
 
-<details>
+<details open>
 <summary>📂 <b>Show 10 repos</b></summary>
 
 | Repo | ★ Stars | Tier | Lang | Description |
@@ -410,7 +410,7 @@
 
 <sub>9 repos · 🟢 3 · 🟡 6</sub>
 
-<details>
+<details open>
 <summary>📂 <b>Show 9 repos</b></summary>
 
 | Repo | ★ Stars | Tier | Lang | Description |
@@ -435,7 +435,7 @@
 
 <sub>7 repos · 🟡 7</sub>
 
-<details>
+<details open>
 <summary>📂 <b>Show 7 repos</b></summary>
 
 | Repo | ★ Stars | Tier | Lang | Description |
@@ -458,7 +458,7 @@
 
 <sub>16 repos · 🟢 4 · 🟡 12</sub>
 
-<details>
+<details open>
 <summary>📂 <b>Show 16 repos</b></summary>
 
 | Repo | ★ Stars | Tier | Lang | Description |
@@ -490,7 +490,7 @@
 
 <sub>69 repos · 🟢 56 · 🟡 13</sub>
 
-<details>
+<details open>
 <summary>📂 <b>Show 69 repos</b></summary>
 
 | Repo | ★ Stars | Tier | Lang | Description |
@@ -575,7 +575,7 @@
 
 <sub>19 repos · 🟢 13 · 🟡 6</sub>
 
-<details>
+<details open>
 <summary>📂 <b>Show 19 repos</b></summary>
 
 | Repo | ★ Stars | Tier | Lang | Description |
@@ -610,7 +610,7 @@
 
 <sub>41 repos · 🟢 32 · 🟡 8 · 🟠 1</sub>
 
-<details>
+<details open>
 <summary>📂 <b>Show 41 repos</b></summary>
 
 | Repo | ★ Stars | Tier | Lang | Description |
@@ -667,7 +667,7 @@
 
 <sub>38 repos · 🟢 26 · 🟡 12</sub>
 
-<details>
+<details open>
 <summary>📂 <b>Show 38 repos</b></summary>
 
 | Repo | ★ Stars | Tier | Lang | Description |
@@ -721,7 +721,7 @@
 
 <sub>3 repos · 🟢 3</sub>
 
-<details>
+<details open>
 <summary>📂 <b>Show 3 repos</b></summary>
 
 | Repo | ★ Stars | Tier | Lang | Description |
@@ -740,7 +740,7 @@
 
 <sub>10 repos · 🟢 7 · 🟡 3</sub>
 
-<details>
+<details open>
 <summary>📂 <b>Show 10 repos</b></summary>
 
 | Repo | ★ Stars | Tier | Lang | Description |
@@ -766,7 +766,7 @@
 
 <sub>26 repos · 🟢 19 · 🟡 7</sub>
 
-<details>
+<details open>
 <summary>📂 <b>Show 26 repos</b></summary>
 
 | Repo | ★ Stars | Tier | Lang | Description |
@@ -808,7 +808,7 @@
 
 <sub>6 repos · 🟢 5 · 🟡 1</sub>
 
-<details>
+<details open>
 <summary>📂 <b>Show 6 repos</b></summary>
 
 | Repo | ★ Stars | Tier | Lang | Description |
@@ -830,7 +830,7 @@
 
 <sub>21 repos · 🟢 15 · 🟡 6</sub>
 
-<details>
+<details open>
 <summary>📂 <b>Show 21 repos</b></summary>
 
 | Repo | ★ Stars | Tier | Lang | Description |
@@ -867,7 +867,7 @@
 
 <sub>17 repos · 🟢 11 · 🟡 6</sub>
 
-<details>
+<details open>
 <summary>📂 <b>Show 17 repos</b></summary>
 
 | Repo | ★ Stars | Tier | Lang | Description |
@@ -900,7 +900,7 @@
 
 <sub>12 repos · 🟢 12</sub>
 
-<details>
+<details open>
 <summary>📂 <b>Show 12 repos</b></summary>
 
 | Repo | ★ Stars | Tier | Lang | Description |
@@ -928,7 +928,7 @@
 
 <sub>18 repos · 🟢 16 · 🟡 2</sub>
 
-<details>
+<details open>
 <summary>📂 <b>Show 18 repos</b></summary>
 
 | Repo | ★ Stars | Tier | Lang | Description |
@@ -962,7 +962,7 @@
 
 <sub>5 repos · 🟢 3 · 🟡 2</sub>
 
-<details>
+<details open>
 <summary>📂 <b>Show 5 repos</b></summary>
 
 | Repo | ★ Stars | Tier | Lang | Description |
@@ -983,7 +983,7 @@
 
 <sub>18 repos · 🟢 7 · 🟡 11</sub>
 
-<details>
+<details open>
 <summary>📂 <b>Show 18 repos</b></summary>
 
 | Repo | ★ Stars | Tier | Lang | Description |
